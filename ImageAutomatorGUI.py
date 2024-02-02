@@ -1,8 +1,12 @@
+#pip install opencv-python
 import cv2
+#pip install tk
 import tkinter as tk
 from tkinter import ttk
+#pip install pillow
 from PIL import Image, ImageTk
 import os
+#pip install adafruit-circuitpython-motorkit
 #from adafruit_motorkit import MotorKit
 
 class ImageAutomatorGUI:
